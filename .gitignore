@@ -1,0 +1,19 @@
+# エディタ設定（環境依存のパスを含むため）
+.vscode/
+
+# コンテスト用の作業ファイル
+/a.cpp
+/b.cpp
+/c.cpp
+/d.cpp
+/e.cpp
+/f.cpp
+/g.cpp
+
+# ビルド成果物
+a.out
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
