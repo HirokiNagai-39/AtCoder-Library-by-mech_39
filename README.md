@@ -13,7 +13,7 @@
 `union_find` / `BIT` / `segment_tree` / `lazy_segment_tree`
 
 ### `graph/` — グラフ
-`BFS` / `DFS` / `dijkstra` / `bellman_ford` / `warshall_floyd` / `MST` / `LCA` / `SCC` / `topological_sort` / `euler_tour` / `max_flow`
+`BFS` / `DFS` / `dijkstra` / `bellman_ford` / `warshall_floyd` / `MST` / `spanning_tree` / `LCA` / `SCC` / `topological_sort` / `euler_tour` / `max_flow`
 
 ### `math/` — 数学
 `prime` / `gcd_lcm` / `ext_gcd` / `mod_pow` / `modint` / `combinatorics` / `floor_sum` / `discrete_log` / `ntt`
